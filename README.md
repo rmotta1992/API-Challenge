@@ -1,2 +1,2 @@
-# API_Challenge
+# API-Challenge
 Repo for API Homework
